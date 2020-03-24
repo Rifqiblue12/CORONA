@@ -2,27 +2,6 @@
 
 error_reporting ( 0 );
 termasuk ( "func.php" );
-echo color("blue"," ===========================\n");
-echo color("yellow","
-╔══╗─╔╗───╔═══╗╔═══╗╔╗╔═╗
-║╔╗║─║║───║╔═╗║║╔═╗║║║║╔╝
-║╚╝╚╗║║───║║─║║║║─╚╝║╚╝╝─
-║╔═╗║║║─╔╗║╚═╝║║║─╔╗║╔╗║─
-║╚═╝║║╚═╝║║╔═╗║║╚═╝║║║║╚╗
-╚═══╝╚═══╝╚╝─╚╝╚═══╝╚╝╚═╝
-╔══╗─╔╗─╔╗╔╗───╔╗───
-║╔╗║─║║─║║║║───║║───
-║╚╝╚╗║║─║║║║───║║───
-║╔═╗║║║─║║║║─╔╗║║─╔╗
-║╚═╝║║╚═╝║║╚═╝║║╚═╝║
-╚═══╝╚═══╝╚═══╝╚═══╝ |\n");
-echo color("red","| Auto create Gojek X Redeem voucher gofoood |\n");
-echo color("green","| github: Hekker by: R |\n");
-echo color("purple","| Sponsor : PT. GOJEK INDONESIA|\n");
-echo color("yellow","| Creator : Rifqiganteng.com          |\n");
-echo "| Kata sambutan : kalo dah dapat banyak jangan lupa sedekah atw tratir BOMBOM ngopi ya      |\n";
-echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
-echo " ===========================\n";
 echo  "\ e GOJEK VERSION 1.7.1 \ n" ;
 echo  "\ e SCRIPT GOJEK AUTO REGISTER + AUTO CLAIM VOUCHER \ n" ;
 gema  "\ n" ;
